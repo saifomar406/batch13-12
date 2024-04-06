@@ -1,0 +1,110 @@
+.box1{
+    background-color: rgb(250, 175, 90);
+    border-radius: 25px;
+    border-style: groove;
+    height: 70px;
+    padding-top: 40px;
+}
+
+.box1 a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin-left: 30px;
+}
+.searchbar{
+    margin-left: 350px;
+}
+.buttonbar{
+    background-color: rgb(163, 7, 7);
+}
+.box1 a.logo{
+    color: brown;
+}
+.box1 a{
+    margin-left: 50px;
+}
+.box2{
+    background-color: bisque;
+    border-radius: 25px;
+    height: 580px;
+    margin-top: 10px;
+}
+.box2 div.con1{
+    background-color: rgb(128, 7, 133);
+    height: 150px;
+    width: 150px;
+    margin-left: 200px;
+    display:inline-block
+}
+.box2 div.con2{
+    background-color: rgb(7, 133, 116);
+    height: 150px;
+    width: 150px;
+    margin-left: 200px;
+    display:inline-block
+    
+}
+.box2 div.con3{
+    background-color: rgb(6, 9, 180);
+    height: 150px;
+    width: 150px;
+    margin-top: 30px;
+    margin-left: 200px;
+    display:inline-block
+
+}
+.box2 div.con4{
+    background-color: rgb(41, 180, 6);
+    height: 150px;
+    width: 150px;
+    margin-top: 30px;
+    margin-left: 200px;
+    display:inline-block
+}
+.box2 div.con5{
+    background-color: rgb(168, 180, 6);
+    height: 150px;
+    width: 150px;
+    margin-top: 30px;
+    margin-left: 200px;
+    display:inline-block
+}
+.box2 div.con6{
+    background-color: rgb(6, 180, 157);
+    height: 150px;
+    width: 150px;
+    margin-top: 30px;
+    margin-left: 200px;
+    display:inline-block
+
+}
+.box2 div.con7{
+    background-color: rgb(6, 180, 157);
+    height: 30px;
+    width: 100%;
+    margin-top: 30px;
+    display:inline-block
+}
+.box2 div.con8{
+    background-color:black;
+    height: 30px;
+    width: 100%;
+    border-radius: 30px;
+    margin-top: 30px;
+    display:inline-block
+}
+.box3{
+    background-color: rgb(211, 121, 12);
+    width: 100%;
+    height: 80px;
+    border-radius: 40px;
+    border-style: groove;
+}
+.box3 a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding-top: 30px;
+    margin-left: 240px;
+}
